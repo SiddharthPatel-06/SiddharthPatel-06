@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthpatel-10&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthpatel-10" /> </p>
 
-- 🔭 I’m currently working on **coursify**
+- 🔭 I’m currently working on **smart-logistics-optimization-system**
 
-- 💬 Ask me about **Mern stack, DSA**
+- 💬 Ask me about **Mern stack, React Native Mobile Developer & DSA**
 
 - 📫 How to reach me **connectwithsiddh@gmail.com**
 
