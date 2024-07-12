@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Patel</h1>
-<h3 align="center">A passionate mern stack developer from India, passionate about building innovative solutions and contributing to the tech community.</h3>
+<h3 align="center">A passionate Mern Stack Developer & React Native Mobile Developer from India, passionate about building innovative solutions and contributing to the tech community.</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" align="right">
 
