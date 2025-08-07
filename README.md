@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Mern stack, GenAI Developer & DSA**
 
-- 📫 How to reach me **connectwithsiddh@gmail.com**
+- 📫 How to reach me **heycodewithsid@gmail.com**
 
 - ⚡ Fun fact **Did you know? I've written so much code that my keyboard now autocorrects 'hello' to console.log('Hello, World!');**
 
