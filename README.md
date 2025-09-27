@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Patel</h1>
-<h3 align="center">MERN Stack & GenAI Developer from India — Passionate about building smart, real-world solutions.</h3>
+<h3 align="center">MERN Stack & React Native Mobile App Developer from India — Passionate about building smart, real-world solutions.</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" align="right">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SmartMart – Intelligent Mart Management System.**
 
-- 💬 Ask me about **Mern stack, GenAI & DSA**
+- 💬 Ask me about **MERN Stack, React Native Mobile App Development & DSA**
 
 - 📫 How to reach me **heycodewithsid@gmail.com**
 
