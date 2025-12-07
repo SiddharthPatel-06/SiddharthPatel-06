@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthpatel-10&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthpatel-10" /> </p>
 
-- 🔭 I’m currently working on **SmartMart – Intelligent Mart Management System.**
+- 🔭 I’m currently working on **JobPilot AI – Your Smart Assistant for Job Search**
 
 - 💬 Ask me about **MERN Stack, React Native Mobile App Development & DSA**
 
